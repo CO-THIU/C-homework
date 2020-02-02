@@ -1,0 +1,15 @@
+source apple panda elephant goat fish tiger
+1.64 1.46 2.64 0.68 1.45 2.15
+source apple panda
+elephant
+-1.6
+-0.9
+goat
+-2.9
+-0.8
+fish
+-3.1
+-1.7
+tiger
+-4.2
+-1.8
